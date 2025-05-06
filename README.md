@@ -1,5 +1,5 @@
 # Java AlarmClock
-**Java AlarmClock** is a simple terminal-based alarm program that plays a custom .wav sound at the specified time.
+**Java AlarmClock** is a simple terminal-based alarm program that plays a custom .wav sound at the specified time. </br>
 Java AlarmClock（ジャバ・アラームクロック）は、指定した時刻に.wavファイルを再生するシンプルなターミナルベースのアラームアプリです。
 
 ## 🔧 Core Features | 主な機能
